@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ki36.Lemyk.lab5","c":"Equations","l":"calculate(int)"},{"p":"ki36.Lemyk.lab5","c":"Equations","l":"Equations()","u":"%3Cinit%3E()"}];updateSearchResults();
